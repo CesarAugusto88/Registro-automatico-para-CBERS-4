@@ -1,4 +1,4 @@
-<h1>Registro-automatico-para-CBERS-4</h1>
+<h1>Registro automatico para CBERS-4</h1>
 <h3>Projeto da Disciplina: Introdução à Programação com Dados Geoespaciais (INPE)</h3>
 
 <p align="justify">O objetivo do projeto foi construir um script em Python para estimar o deslocamento existente entre imagens PAN10 e PAN5 (nível L2). Foi realizada a reamostragem da imagem PAN5. Além de estimar, o script altera as informações de box das imagens PAN10 para a mesma posição da PAN5.
