@@ -15,7 +15,8 @@ O relatório produzido foi escrito conforme o template disponível para o (GEOIN
 <h2>Fluxograma de funcionamento</h2>
 
 <p align="center"><img src="https://github.com/CesarAugusto88/Registro-automatico-para-CBERS-4/blob/main/Fluxograma2.png">
-
+<br>
+<br>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="150" 
      height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Satellite_icon1.png" width="150" 
      height="150"> </p>
