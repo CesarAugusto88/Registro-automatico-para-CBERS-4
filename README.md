@@ -20,4 +20,4 @@ O relatório produzido foi escrito conforme o template disponível para o (GEOIN
      height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Satellite_icon1.png" width="150" 
      height="150"> </p>
      
-   <p>&copy; 2023 Barbara Marie Van Sebroeck Lutiis S. Martins, Cesar Augusto de Moraes Costa, Júlio Cesar Pimenta dos Santos, Pedro Ferrini Manh ̃aes Bacellar, Tassio Koiti Igawa</p>
+   <p>&copy; 2023 Barbara Marie Van Sebroeck Lutiis S. Martins, Cesar Augusto de Moraes Costa, Júlio Cesar Pimenta dos Santos, Pedro Ferrini Manhães Bacellar, Tassio Koiti Igawa</p>
