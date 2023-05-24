@@ -10,7 +10,7 @@ Para cumprir o objetivo do trabalho, pode-se assumir que as bandas B2, B3 e B4 e
 <br>
 
 Obs:
-O relatório produzido foi escrito conforme o template disponível para o (GEOINFO)[https://www.overleaf.com/read/xtnkjtmtzrwt].
+O relatório produzido foi escrito conforme o template disponível para o [GEOINFO](https://www.overleaf.com/read/xtnkjtmtzrwt).
 
 <h2>Fluxograma de funcionamento</h2>
 
