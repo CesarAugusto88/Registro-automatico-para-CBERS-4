@@ -5,7 +5,7 @@
 
 Com o script é possível realizar uma fusão das imagens antes e após os registro. As imagens de teste do satélite CBERS-4 possui o sensor PAN, com 3 bandas PAN10 (green B2, red B3, nir B4) e 1 banda pancromática (PAN5 B1).
 
-Para cumprir o objetivo do trabalho, pode-se assumir que as bandas B2, B3 e B4 estão co-registradas, mas estão deslocadas em relação à B1 (referência). No script foi usado bibliotecas que realizam o registro obtendo pontos homólogos entre as imagens de referência e alvo, gerando uma nova matriz da imagem corrigida. Por meio de deslocamentos é encontrado as distâncias a serem corrigidas nos eixos x e/ou y, a posição que obtive a maior semelhança pode ser indicada como o deslocamento necessário para alinhar B2/B3/B4 com a referência B1.
+Para cumprir o objetivo do trabalho, pode-se assumir que as bandas B2, B3 e B4 estão co-registradas, mas estão deslocadas em relação à B1 (referência). No script foi usado bibliotecas que realizam o registro obtendo pontos homólogos entre as imagens alvo (B2B3B4) e a imagem de referência (B1), gerando uma nova matriz da imagem corrigida. Por meio de deslocamentos é encontrado as distâncias a serem corrigidas nos eixos x e/ou y, a posição que obtive a maior semelhança pode ser indicada como o deslocamento necessário para alinhar B2/B3/B4 com a referência B1.
 </p>
 <br>
 
